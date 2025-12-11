@@ -1,7 +1,7 @@
 # BankLead : Boost Your Efficiency, Boost Your Lead
 
 <p align="center">
-   <img src="../assets/banklead-logo.png" width="80%" />
+   <img src="../assets/banklead-logo.png" width="80%" >
 </p>
 
 <p align="center"><i>Efisiensi tim naik ketika keputusan dibuat berdasarkan data, bukan tebakan.</i></p>
@@ -23,7 +23,7 @@ BankLead berfokus pada:
 ## Application Preview
 
 <p align="center">
-   <img src="../assets/banklead_preview.png" width="100%" />
+   <img src="../assets/banklead_preview.png" width="100%" >
 </p>
 
 ---
