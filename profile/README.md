@@ -1,1 +1,85 @@
+# BankLead : Boost Your Efficiency, Boost Your Lead
+
+<p align="center">
+   <img src="./assets/banklead-logo.png" width="80%" />
+</p>
+
+<p align="center"><i>Efisiensi tim naik ketika keputusan dibuat berdasarkan data, bukan tebakan.</i></p>
+
+---
+
+## About BankLead
+BankLead adalah platform *Predictive Lead Scoring* berbasis Machine Learning yang dirancang untuk membantu tim sales perbankan meningkatkan efektivitas kampanye *outbound call*.  
+Dengan memanfaatkan analisis data secara akurat dan otomatis, BankLead memberikan prioritas lead yang paling potensial sehingga tim pemasaran dapat bekerja lebih cepat, lebih efisien, dan lebih menghasilkan.
+
+BankLead berfokus pada:
+- Optimalisasi proses penentuan prioritas nasabah.
+- Meminimalkan waktu dan tenaga tim sales.
+- Mengurangi bias manual dalam proses pemilihan lead.
+- Meningkatkan peluang konversi kampanye perbankan.
+
+---
+
+## Application Preview
+
+<p align="center">
+   <img src="./assets/banklead_preview.png" width="100%" />
+</p>
+
+---
+
+## Key Features
+- **Predictive Lead Scoring** menggunakan algoritma Machine Learning.  
+- **Dashboard Interaktif** untuk memantau performa kampanye secara real-time.  
+- **Automated Data Pipeline** untuk loading dataset dan inferensi model secara cepat.
+- **Filtering & segmentation** untuk membantu sales memilih target yang paling potensial.
+- **Batch prediction** untuk memproses ribuan data nasabah sekaligus.
+- **Explainable ML Output** agar keputusan dapat dipertanggungjawabkan.
+
+---
+
+## Team Members
+
+| **ID** | **Name** | **Division** | **Social Media** |
+|:------:|:---------|:-------------:|:------------------:|
+| R014D5Y1054 | Made Satria Yudha Negara | React & Back-End with AI | [GitHub](https://github.com/SatriaYudha03) \| [LinkedIn](https://www.linkedin.com/in/satria-yudha-73a050286/) |
+| M014D5Y0280 | Arjuna Aditya Pratama | Machine Learning | [GitHub](https://github.com/arjunapratama0) \| [LinkedIn](https://www.linkedin.com/in/arjuna-aditya-pratama-542048286/) |
+| M014D5Y0078 | Agus Arya Wiraguna | Machine Learning | [GitHub](https://github.com/wiragunaa) \| [LinkedIn](https://www.linkedin.com/in/agus-arya-wiraguna/) |
+| R014D5Y0771 | I Gede Metra Shandy Mahardika | React & Back-End with AI | [GitHub](https://github.com/metrashandy) \| [LinkedIn](https://www.linkedin.com/in/metra-shandy-90044437b/) |
+| R014D5Y1700 | Richad Krishnadana Primantara | React & Back-End with AI | [GitHub](https://github.com/prymerich) \| [LinkedIn](https://www.linkedin.com/in/richad-krishnadana-primantara-baa025286/) |
+
+---
+
+## Repositories
+
+| **Division** | **Repository Link** |
+|:------------:|:-------------------:|
+| Back-end | [Github](https://github.com/predictive-lead-portal/back-end) |
+| Front-end | [Github](https://github.com/predictive-lead-portal/front-end) |
+| Machine Learning | [Github](https://github.com/predictive-lead-portal/machine-learning) |
+
+---
+
+## Project Documents
+
+- 📘 **Project Plan** — [Open Document](https://docs.google.com/document/d/1Nyz1HyzMrGyvDH5Y-HdNgIy3QaEgCIUFBfn3G76nck0/edit?usp=sharing)  
+- 📗 **Project Brief** — [Open Document](https://docs.google.com/document/d/1gJ4cSHl6W4hFE7dz4MA3xrNNr9lsZ00k_KKsqOc_tzM/edit?usp=sharing)  
+- 🎥 **Presentation Video** — [Watch Here](#)  
+
+---
+
+## Why BankLead Matters
+BankLead menjadi solusi bagi instansi perbankan yang ingin mengurangi *inefficiency* dalam proses *lead prioritization*.  
+Dengan algoritma yang diuji, proses konversi nasabah bisa meningkat tanpa menambah beban kerja tim pemasaran. Keputusan menjadi lebih cerdas, cepat, dan berbasis data.
+
+---
+
+## Contact
+Jika ingin berkolaborasi atau bertanya seputar pengembangan BankLead, silakan hubungi tim melalui LinkedIn masing-masing pada tabel di atas.
+
+---
+
+<p align="center">
+   <sub>© 2025 BankLead Capstone Project — All Rights Reserved</sub>
+</p>
 
