@@ -73,7 +73,7 @@ Dengan algoritma yang diuji, proses konversi nasabah bisa meningkat tanpa menamb
 ---
 
 ## Contact
-Jika ingin berkolaborasi atau bertanya seputar pengembangan BankLead, silakan hubungi tim melalui LinkedIn masing-masing pada tabel di atas.
+Jika ingin berkolaborasi atau bertanya seputar BankLead, silakan hubungi tim melalui LinkedIn masing-masing pada tabel di atas.
 
 ---
 
