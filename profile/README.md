@@ -1,10 +1,8 @@
-# BankLead : Boost Your Efficiency, Boost Your Lead
+# BankLead : Efisiensi tim naik ketika keputusan dibuat berdasarkan data, bukan tebakan
 
 <p align="center">
-   <img src="./assets/banklead-logo.png" width="80%" />
+   <img src="../assets/banklead-logo.png" width="100%" height="50%" >
 </p>
-
-<p align="center"><i>Efisiensi tim naik ketika keputusan dibuat berdasarkan data, bukan tebakan.</i></p>
 
 ---
 
@@ -23,7 +21,7 @@ BankLead berfokus pada:
 ## Application Preview
 
 <p align="center">
-   <img src="./assets/banklead_preview.png" width="100%" />
+   <img src="../assets/banklead_preview.png" width="100%" >
 </p>
 
 ---
@@ -62,9 +60,9 @@ BankLead berfokus pada:
 
 ## Project Documents
 
-- 📘 **Project Plan** — [Open Document](https://docs.google.com/document/d/1Nyz1HyzMrGyvDH5Y-HdNgIy3QaEgCIUFBfn3G76nck0/edit?usp=sharing)  
-- 📗 **Project Brief** — [Open Document](https://docs.google.com/document/d/1gJ4cSHl6W4hFE7dz4MA3xrNNr9lsZ00k_KKsqOc_tzM/edit?usp=sharing)  
-- 🎥 **Presentation Video** — [Watch Here](#)  
+- **Project Plan** — [Open Document](https://docs.google.com/document/d/1Nyz1HyzMrGyvDH5Y-HdNgIy3QaEgCIUFBfn3G76nck0/edit?usp=sharing)  
+- **Project Brief** — [Open Document](https://docs.google.com/document/d/1gJ4cSHl6W4hFE7dz4MA3xrNNr9lsZ00k_KKsqOc_tzM/edit?usp=sharing)  
+- **Presentation Video** — [Watch Here](#)  
 
 ---
 
@@ -75,7 +73,7 @@ Dengan algoritma yang diuji, proses konversi nasabah bisa meningkat tanpa menamb
 ---
 
 ## Contact
-Jika ingin berkolaborasi atau bertanya seputar pengembangan BankLead, silakan hubungi tim melalui LinkedIn masing-masing pada tabel di atas.
+Jika ingin berkolaborasi atau bertanya seputar BankLead, silakan hubungi tim melalui LinkedIn masing-masing pada tabel di atas.
 
 ---
 
