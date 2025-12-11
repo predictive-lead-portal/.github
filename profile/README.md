@@ -62,9 +62,9 @@ BankLead berfokus pada:
 
 ## Project Documents
 
-- 📘 **Project Plan** — [Open Document](https://docs.google.com/document/d/1Nyz1HyzMrGyvDH5Y-HdNgIy3QaEgCIUFBfn3G76nck0/edit?usp=sharing)  
-- 📗 **Project Brief** — [Open Document](https://docs.google.com/document/d/1gJ4cSHl6W4hFE7dz4MA3xrNNr9lsZ00k_KKsqOc_tzM/edit?usp=sharing)  
-- 🎥 **Presentation Video** — [Watch Here](#)  
+- **Project Plan** — [Open Document](https://docs.google.com/document/d/1Nyz1HyzMrGyvDH5Y-HdNgIy3QaEgCIUFBfn3G76nck0/edit?usp=sharing)  
+- **Project Brief** — [Open Document](https://docs.google.com/document/d/1gJ4cSHl6W4hFE7dz4MA3xrNNr9lsZ00k_KKsqOc_tzM/edit?usp=sharing)  
+- **Presentation Video** — [Watch Here](#)  
 
 ---
 
