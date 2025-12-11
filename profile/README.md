@@ -1,10 +1,8 @@
-# BankLead : Boost Your Efficiency, Boost Your Lead
+# BankLead : Efisiensi tim naik ketika keputusan dibuat berdasarkan data, bukan tebakan
 
 <p align="center">
    <img src="../assets/banklead-logo.png" width="100%" height="50%" >
 </p>
-
-<p align="center"><i>Efisiensi tim naik ketika keputusan dibuat berdasarkan data, bukan tebakan.</i></p>
 
 ---
 
