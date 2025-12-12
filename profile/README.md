@@ -1,4 +1,4 @@
-# BankLead : Efisiensi tim naik ketika keputusan dibuat berdasarkan data, bukan tebakan
+# BankLead
 
 <p align="center">
    <img src="../assets/banklead-logo.png" width="100%" height="50%" >
@@ -15,14 +15,6 @@ BankLead berfokus pada:
 - Meminimalkan waktu dan tenaga tim sales.
 - Mengurangi bias manual dalam proses pemilihan lead.
 - Meningkatkan peluang konversi kampanye perbankan.
-
----
-
-## Application Preview
-
-<p align="center">
-   <img src="../assets/banklead_preview.png" width="100%" >
-</p>
 
 ---
 
