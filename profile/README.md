@@ -52,9 +52,9 @@ BankLead berfokus pada:
 ## Documentation & Replication
 Instruksi lengkap untuk mengatur environment (`.env`) dan menjalankan setiap komponen tersedia di README masing-masing repository. Silakan buka README pada setiap folder untuk langkah-langkah detail:
 
-- [front-end](front-end/README.md)
-- [back-end](back-end/README.md)
-- [machine-learning](machine-learning/README.md)
+- [Front-End]([front-end/README.md](https://github.com/predictive-lead-portal/back-end))
+- [Back-End]([back-end/README.md](https://github.com/predictive-lead-portal/front-end)))
+- [Machine-Learning]([machine-learning/README.md](https://github.com/predictive-lead-portal/machine-learning))
 
 <p align="center">
    <sub>© 2025 BankLead Capstone Project — All Rights Reserved</sub>
