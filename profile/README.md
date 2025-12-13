@@ -50,6 +50,17 @@ BankLead berfokus pada:
 
 ---
 ## Documentation & Replication
+Proyek ini terdiri dari tiga komponen utama: front-end (React/Vite), back-end (Node.js/Express), dan machine-learning (Python/FastAPI). Panduan ini menjelaskan langkah-langkah untuk mereplikasi proyek dari awal.
+
+### Struktur Folder
+
+```
+project-root/
+├── back-end/
+├── front-end/
+└── machine-learning/
+```
+
 ### 1. Clone Seluruh Repository
 ```bash
 git clone https://github.com/predictive-lead-portal/front-end.git
