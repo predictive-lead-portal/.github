@@ -116,7 +116,7 @@ git clone https://github.com/predictive-lead-portal/machine-learning.git
    ```
    Server akan berjalan di `http://localhost:3000`. Pastikan database PostgreSQL atau Supabase sudah setup.
 
-## Setup Machine-Learning
+### 4. Setup Machine-Learning
 1. Navigasi ke folder machine-learning:
    ```bash
    cd machine-learning
