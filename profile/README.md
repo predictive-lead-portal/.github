@@ -41,7 +41,7 @@ BankLead berfokus pada:
 ---
 ## Documentation & Replication
 Instruksi lengkap untuk mengatur environment (`.env`) dan menjalankan setiap komponen tersedia di README masing-masing repository.
----
+
 ## Repositories
 
 | **Division** | **Repository Link** |
@@ -52,7 +52,24 @@ Instruksi lengkap untuk mengatur environment (`.env`) dan menjalankan setiap kom
 
 ---
 
+## Project Documents
 
+- *Project Plan* — [Open Document](https://docs.google.com/document/d/1Nyz1HyzMrGyvDH5Y-HdNgIy3QaEgCIUFBfn3G76nck0/edit?usp=sharing)  
+- *Project Brief* — [Open Document](https://docs.google.com/document/d/1gJ4cSHl6W4hFE7dz4MA3xrNNr9lsZ00k_KKsqOc_tzM/edit?usp=sharing)  
+- *Presentation Video* — [Watch Here](#)  
+
+---
+
+## Why BankLead Matters
+BankLead menjadi solusi bagi instansi perbankan yang ingin mengurangi inefficiency dalam proses lead prioritization.  
+Dengan algoritma yang diuji, proses konversi nasabah bisa meningkat tanpa menambah beban kerja tim pemasaran. Keputusan menjadi lebih cerdas, cepat, dan berbasis data.
+
+---
+
+## Contact
+Jika ingin berkolaborasi atau bertanya seputar BankLead, silakan hubungi tim melalui LinkedIn masing-masing pada tabel di atas.
+
+---
 
 <p align="center">
    <sub>© 2025 BankLead Capstone Project — All Rights Reserved</sub>
