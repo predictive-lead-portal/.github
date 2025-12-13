@@ -39,7 +39,9 @@ BankLead berfokus pada:
 | R014D5Y1700 | Richad Krishnadana Primantara | React & Back-End with AI | [GitHub](https://github.com/prymerich) \| [LinkedIn](https://www.linkedin.com/in/richad-krishnadana-primantara-baa025286/) |
 
 ---
-
+## Documentation & Replication
+Instruksi lengkap untuk mengatur environment (`.env`) dan menjalankan setiap komponen tersedia di README masing-masing repository.
+---
 ## Repositories
 
 | **Division** | **Repository Link** |
@@ -49,12 +51,8 @@ BankLead berfokus pada:
 | Machine Learning | [Github](https://github.com/predictive-lead-portal/machine-learning) |
 
 ---
-## Documentation & Replication
-Instruksi lengkap untuk mengatur environment (`.env`) dan menjalankan setiap komponen tersedia di README masing-masing repository. Silakan buka README pada setiap folder untuk langkah-langkah detail:
 
-- [Front-End]([front-end/README.md](https://github.com/predictive-lead-portal/back-end))
-- [Back-End]([back-end/README.md](https://github.com/predictive-lead-portal/front-end)))
-- [Machine-Learning]([machine-learning/README.md](https://github.com/predictive-lead-portal/machine-learning))
+
 
 <p align="center">
    <sub>© 2025 BankLead Capstone Project — All Rights Reserved</sub>
