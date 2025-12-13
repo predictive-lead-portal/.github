@@ -55,26 +55,101 @@ BankLead berfokus pada:
 git clone https://github.com/predictive-lead-portal/front-end.git
 git clone https://github.com/predictive-lead-portal/back-end.git
 git clone https://github.com/predictive-lead-portal/machine-learning.git
-### 1. Clone Seluruh Repository
----
-## Project Documents
+```
+### 2. Setup Front-End
+1. Navigasi ke folder front-end:
+   ```bash
+   cd front-end
+   ```
 
-- **Project Plan** — [Open Document](https://docs.google.com/document/d/1Nyz1HyzMrGyvDH5Y-HdNgIy3QaEgCIUFBfn3G76nck0/edit?usp=sharing)  
-- **Project Brief** — [Open Document](https://docs.google.com/document/d/1gJ4cSHl6W4hFE7dz4MA3xrNNr9lsZ00k_KKsqOc_tzM/edit?usp=sharing)  
-- **Presentation Video** — [Watch Here](#)  
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
----
+3. Jalankan development server:
+   ```bash
+   npm run dev
+   ```
+   Server akan berjalan di `http://localhost:5173`. Buka browser dan akses URL tersebut.
 
-## Why BankLead Matters
-BankLead menjadi solusi bagi instansi perbankan yang ingin mengurangi *inefficiency* dalam proses *lead prioritization*.  
-Dengan algoritma yang diuji, proses konversi nasabah bisa meningkat tanpa menambah beban kerja tim pemasaran. Keputusan menjadi lebih cerdas, cepat, dan berbasis data.
+### 3. Setup Back-End
+1. Navigasi ke folder back-end:
+   ```bash
+   cd back-end
+   ```
 
----
+2. Copy dan sesuaikan file environment:
+   - Salin `.env.example` menjadi `.env`:
+     ```bash
+     cp .env.example .env
+     ```
+   - Edit file `.env` dan isi variabel seperti `DATABASE_URL`, `JWT_SECRET`, `SUPABASE_URL`, `SUPABASE_ANON_KEY`, dll., sesuai setup Supabase Anda.
+   - Jika `.env.example` belum ada, buat file dengan struktur berikut:
+     ```
+     # Server Config
+     PORT=3000
 
-## Contact
-Jika ingin berkolaborasi atau bertanya seputar BankLead, silakan hubungi tim melalui LinkedIn masing-masing pada tabel di atas.
+     # Supabase Configuration
+     SUPABASE_URL=your_supabase_project_url
+     SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
 
----
+     # Database Configuration
+     DATABASE_URL=your_database_connection_string
+
+     # JWT Keys for Backend Tokens
+     ACCESS_TOKEN_KEY=your_access_token_secret_key
+     REFRESH_TOKEN_KEY=your_refresh_token_secret_key
+
+     # ML API Configuration
+     ML_API_URL=http://localhost:8000
+     ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Jalankan server:
+   ```bash
+   npm start
+   ```
+   Server akan berjalan di `http://localhost:3000`. Pastikan database PostgreSQL atau Supabase sudah setup.
+
+## Setup Machine-Learning
+1. Navigasi ke folder machine-learning:
+   ```bash
+   cd machine-learning
+   ```
+
+2. Buat dan aktifkan virtual environment:
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
+   ```
+
+3. Copy dan sesuaikan file environment:
+   - Salin `.env.example` menjadi `.env` :
+     ```bash
+     cp .env.example .env
+     ```
+   - Edit file `.env` dan pastikan path data/model benar.   - Jika `.env.example` belum ada, buat file dengan struktur berikut:
+     ```
+     # Supabase Configuration
+     SUPABASE_URL=your_supabase_project_url
+     SUPABASE_ANON_KEY=your_supabase_anon_key
+     SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
+     ```
+4. Install requirements:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. Jalankan server dengan Uvicorn:
+   ```bash
+   uvicorn app.main:app --reload
+   ```
+   Server akan berjalan di `http://localhost:8000`
 
 <p align="center">
    <sub>© 2025 BankLead Capstone Project — All Rights Reserved</sub>
