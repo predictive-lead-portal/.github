@@ -56,7 +56,7 @@ git clone https://github.com/predictive-lead-portal/front-end.git
 git clone https://github.com/predictive-lead-portal/back-end.git
 git clone https://github.com/predictive-lead-portal/machine-learning.git
 ### 1. Clone Seluruh Repository
-
+---
 ## Project Documents
 
 - **Project Plan** — [Open Document](https://docs.google.com/document/d/1Nyz1HyzMrGyvDH5Y-HdNgIy3QaEgCIUFBfn3G76nck0/edit?usp=sharing)  
