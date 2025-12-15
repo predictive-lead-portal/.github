@@ -30,7 +30,7 @@ BankLead berfokus pada:
 
 ## Anggota Team [A25-CS074]
 
-| **ID** | **Name** | **Divisi** | **Social Media** |
+| **ID** | **Nama** | **Divisi** | **Social Media** |
 |:------:|:---------|:-------------:|:------------------:|
 | R014D5Y1054 | Made Satria Yudha Negara | React & Back-End with AI | [GitHub](https://github.com/SatriaYudha03) \| [LinkedIn](https://www.linkedin.com/in/satria-yudha-73a050286/) |
 | M014D5Y0280 | Arjuna Aditya Pratama | Machine Learning | [GitHub](https://github.com/arjunapratama0) \| [LinkedIn](https://www.linkedin.com/in/arjuna-aditya-pratama-542048286/) |
@@ -44,7 +44,7 @@ Instruksi lengkap untuk mengatur environment (`.env`) dan menjalankan setiap kom
 
 ## Repositories
 
-| **Diviai** | **Repository Link** |
+| **Divisi** | **Repository Link** |
 |:------------:|:-------------------:|
 | Back-end | [Github](https://github.com/predictive-lead-portal/back-end) |
 | Front-end | [Github](https://github.com/predictive-lead-portal/front-end) |
