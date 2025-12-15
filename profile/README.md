@@ -19,12 +19,13 @@ BankLead berfokus pada:
 ---
 
 ## Fitur Kunci
-- **Predictive Lead Scoring** menggunakan algoritma Machine Learning.  
-- **Dashboard Interaktif** untuk memantau performa kampanye secara real-time.  
-- **Automated Data Pipeline** untuk loading dataset dan inferensi model secara cepat.
-- **Filtering & segmentation** untuk membantu sales memilih target yang paling potensial.
-- **Batch prediction** untuk memproses ribuan data nasabah sekaligus.
-- **Explainable ML Output** agar keputusan dapat dipertanggungjawabkan.
+
+- **Predictive Lead Scoring** berbasis Machine Learning untuk memprioritaskan nasabah potensial.
+- **Batch Prediction & Automated Data Pipeline** untuk memproses dan mengimpor ribuan data lead secara efisien.
+- **Dashboard Interaktif** bagi Manager dan Sales untuk memantau performa lead dan aktivitas penjualan.
+- **Lead Management & Assignment** dengan alur kerja terstruktur antara Manager dan Sales.
+- **Filtering & Segmentation** berdasarkan probability score dan atribut lead untuk meningkatkan efektivitas penjualan.
+- **Explainable ML Output** melalui nilai probability score sebagai dasar pengambilan keputusan.
 
 ---
 
@@ -62,7 +63,7 @@ Instruksi lengkap untuk mengatur environment (`.env`) dan menjalankan setiap kom
 
 - *Project Plan* — [Open Document](https://docs.google.com/document/d/1Nyz1HyzMrGyvDH5Y-HdNgIy3QaEgCIUFBfn3G76nck0/edit?usp=sharing)  
 - *Project Brief* — [Open Document](https://docs.google.com/document/d/1gJ4cSHl6W4hFE7dz4MA3xrNNr9lsZ00k_KKsqOc_tzM/edit?usp=sharing)  
-- *Presentation Video* — [Watch Here](#)  
+- *Presentation Video* — [https://youtu.be/o11v__1-PMc](#)  
 
 ---
 
