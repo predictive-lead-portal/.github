@@ -1,4 +1,4 @@
-<img width="890" height="536" alt="image" src="https://github.com/user-attachments/assets/cf390c23-bbff-4e01-94b0-c4d894f4ab57" /># BankLead:  Platform Predictive Lead Scoring berbasis Machine Learning
+# BankLead:  Platform Predictive Lead Scoring berbasis Machine Learning
 
 <p align="center">
    <img src="../assets/banklead_logo.png" width="100%" height="50%" >
