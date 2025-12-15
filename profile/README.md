@@ -1,7 +1,7 @@
 # BankLead:  Platform Predictive Lead Scoring berbasis Machine Learning
 
 <p align="center">
-   <img src="../assets/banklead-logo.png" width="100%" height="50%" >
+   <img src="../assets/banklead_logo.png" width="100%" height="50%" >
 </p>
 
 ---
