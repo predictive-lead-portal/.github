@@ -52,6 +52,13 @@ Instruksi lengkap untuk mengatur environment (`.env`) dan menjalankan setiap kom
 
 ---
 
+# Model Project
+
+Berikut ini link model yang digunakan dalam proyek ini:
+https://drive.google.com/drive/folders/10-s4-piGfm0yN_3G4BCeMPlGTYxpGhp2?usp=sharing
+
+---
+
 ## Project Documents
 
 - *Project Plan* — [Open Document](https://docs.google.com/document/d/1Nyz1HyzMrGyvDH5Y-HdNgIy3QaEgCIUFBfn3G76nck0/edit?usp=sharing)  
