@@ -18,7 +18,7 @@ BankLead berfokus pada:
 
 ---
 
-## Fitur Kunci
+## Fitur
 
 - **Predictive Lead Scoring** berbasis Machine Learning untuk memprioritaskan nasabah potensial.
 - **Batch Prediction & Automated Data Pipeline** untuk memproses dan mengimpor ribuan data lead secara efisien.
